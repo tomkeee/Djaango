@@ -1,4 +1,4 @@
-#!/home/tomek/Django/tutorial_yt/firstproject/myfirstproject/my_env/bin/python
+#!/Users/user/Desktop/Django/gitcopy/Djaango/my_env/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
